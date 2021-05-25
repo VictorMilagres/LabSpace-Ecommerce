@@ -9,7 +9,8 @@ e com o gerenciador de pacotes do NodeJS o npm.
 Esse foi um dos primeiros projetos que fiz em React.
 Ele consiste em uma página que permite ao usuário comprar viagens para outros planetas.
 podendo adicionar seus tickets no carrinho e também utilizar os filtros.
-Não há integrações com APIs externas nesse caso.## Instruções para rodar
+Não há integrações com APIs externas nesse caso.
+## Instruções para rodar
 Por ser um projeto com ReactJS, há a necessidade do NodeJS. Com ele em 
 sua máquina, basta abrir o terminal e navegar até o repositório clonado e 
 rodar:
